@@ -8,3 +8,4 @@
 ###### DQN here is going to solve a famous Cartpole game. And we use 'gym' to get the game environment.
 ###### This part is based on tensorflow so two networks are built in the algorithm.
 ###### The script is run on Google-Colab platform.
+##### There is a quick introduction to DQN: https://medium.com/@jonathan_hui/rl-dqn-deep-q-network-e207751f7ae4
